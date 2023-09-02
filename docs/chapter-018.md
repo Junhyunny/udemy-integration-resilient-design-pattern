@@ -2,7 +2,6 @@
 ## Chapter 18. Scatter Gather Pattern
 
 * 어그리게이터(aggregator) 패턴과 비슷하다.
-    * 어그리게이터 패턴의 사용 예시이다.
 * 브로드캐스트(broadcast) 요청을 수행한다.
     * 연관 있는 데이터를 가진 모든 서비스에 요청을 보낸다.
 * 모든 데이터를 수집한다.

@@ -1,0 +1,4 @@
+airline:
+  delta: http://localhost:7070/sec02/delta
+  frontier: http://localhost:7070/sec02/frontier
+  jet-blue: http://localhost:7070/sec02/jetblue
